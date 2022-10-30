@@ -1,0 +1,96 @@
+TrendyFit
+
+
+Group Name: Mighty8
+Group Members:
+Sravanthi Silla
+Manish Reddy Yadla
+Manoharachary Sriramula 
+Sharath Chandra Garvanda 
+Harsha Joji Reddy Allam
+Yeswanth Gonugunta
+Venkata Sai Teja Reddy Gajula
+Sai Praveen Dadi
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Description:
+
+It's an online web application where users can interact with the fashion designer to make suggestions in choosing the outfits which suit the user. This application will help to get suggestions related to fashion from known fashion designers. In this application, there are three different modules Admin, Designer, and User.
+•	Admin having access to view users, accept Designer requests, view & manage subscriptions of designers.
+•	The designer can register for the application with Personal details. They can view users and chat with them to recommend products and accessories which fit the user. The designer can change their password in case of an emergency.
+•	Users can view designers and chat with the designer to get recommendations on fashion products looking for. User can change their password in case of an emergency.
+Admin will provide subscription to Designer which will come under Mange Subscription. Designers can subscribe yearly basis.
+Users can give feedback on designer recommendations. Based on that user can search for the designers.
+We will be designing and developing this application in Django Framework. For UI design, we will use Django Framework. We will be developing back end using Python. For retrieving the data related to users, designers, admin and other project requirements we will use MySQL Database. Also, tables will be created in database according to project.
+Technologies Used:
+•	Python
+•	Django framework
+•	MySQL database
+
+
+Project Proposal Plan:
+
+Gantt Chart:
+
+
+Risk Management: 
+1.	Data Validation – Need to differentiate between the types of Logins like Admin, User and Designer
+2.	Processing time is more – Ensure processing time is less while performing the activity
+3.	Integration between Web Pages – Need to integrate every page with source code to avoid interruptions.
+4.	Testing – Improper testing will result in poor performance of application, make sure to resolve bugs and errors before final deployment.
+
+
+
+
+
+Roles of the Team members in Project:
+Back-End Developer
+Manish Reddy Yadla
+Venkata Sai Teja Reddy Gajula
+Sravanthi Silla
+Yeswanth Gonugunta
+Having hands-on experience on backend development. Develop the API’s by retrieving data from MYSQL DB and will do validations and follow project requirement logics.
+Team members will contribute on developing Admin, User and Designer functionality REST APIs.
+Front-End Developer
+Manoharachary Sriramula
+Sharath Chandra Garvanda
+Harsha Joji Reddy Allam
+Sai Praveen Dadi
+Experienced in UI Development. Will design web pages with HTML, CSS. Responsible in binding the Rest API response to the pages and giving screens privileges to the different logins (Admin, Designer and User)
+All Team members will involve in testing and creating MYSQL DB tables based on the project Requirements.
+
+
+
+
+
+Team members contribution:
+Member name	Contribution description	Overall Contribution (%)	Note (if applicable)
+Sravanthi Silla	Gant Chart, Project Description	12.5	
+Manish Reddy Yadla	Project Plan, Project overview	12.5	
+Manoharachary Sriramula 	Risk Management	12.5	
+Sharath Chandra Garvanda 	Meeting minutes, Attendees	12.5	
+Harsha Joji Reddy Allam	Title, Group names, Group members	12.5	
+Yeswanth Gonugunta	Roles of team members	12.5	
+Venkata Sai Teja Reddy Gajula	Technologies used	12.5	
+Sai Praveen Dadi	Requirement gathering	12.5	
+
+
+
+
+
+
+
+
+
+
